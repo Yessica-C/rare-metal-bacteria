@@ -1,0 +1,15 @@
+{
+    "name": "rare-metal-bacteria",
+    "version": "0.1.0",
+    "title": "Rare Metal Bacteria",
+    "author": "Liz Kazimiera",
+    "dependencies": [
+        "base >= 2.1",
+        "space-age",
+        "Krastorio2",
+        "(?) Krastorio2-spaced-out"
+    ],
+    "description": "Adds a rare metal bacteria to the Gleba",
+    "factorio_version": "2.1",
+    "space_travel_required": true
+}
